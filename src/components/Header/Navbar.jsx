@@ -12,7 +12,7 @@ const Navbar = () => {
       <li className='mr-4 hover:border hover:border-green-600 px-2 rounded-sm hover:text-green-600 font-bold'>About</li>
     </Link>
 
-    <Link to='readList'>
+    <Link to='/readList'>
       <li className='mr-4 hover:border hover:border-green-600 px-2 rounded-sm hover:text-green-600 font-bold'>ReadList</li>
     </Link>
 
